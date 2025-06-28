@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Naveen Prabakar
 
-<!--
-**NaveenPrabakar/NaveenPrabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Senior, Computer Science @ Iowa State University**  
+💼 **Database Administrator Intern @ Uline (Summer 2025)**  
+♟️ **Chess Lover | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+> “Better to start today than tomorrow”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:** Python · Java · C++ · JavaScript · SQL  
+**Cloud & DevOps:** AWS · Google Cloud Console · Docker  
+**Tools:** Git · VSCode · Jupyter 
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable backend systems (SQL, cloud infra)
+- 🤖 Exploring AI/ML pipelines and model deployment
+
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveen-prabakar-88492b284)  
+- 📂 [My GitHub projects](https://github.com/NaveenPrabakar)
+- ♟️ Keen for chess matches or AI chats — feel free to reach out!
