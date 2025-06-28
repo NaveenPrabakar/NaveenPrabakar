@@ -5,7 +5,6 @@
 ♟️ **Chess Lover | AI/ML Enthusiast**
 
 ## 📬 Let’s Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/naveen-prabakar-88492b284)  
-- 📂 [My GitHub projects](https://github.com/NaveenPrabakar)
-- ♟️ Keen for chess matches or AI chats — feel free to reach out!
+
+Reach it out if you would like to play chess or collaborate on projects!
