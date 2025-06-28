@@ -10,6 +10,7 @@
 - 🧠 [Kaggle Profile](https://www.kaggle.com/navprabakar)
 
 ## 📬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/naveen-prabakar-88492b284)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveen-prabakar-88492b284)
+- 🌐 [Portfolio](https://naveenprabakar.github.io/Portfilio/index.html)
 
 Reach it out if you would like to play chess or collaborate on projects!
