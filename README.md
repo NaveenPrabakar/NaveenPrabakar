@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Naveen Prabakar
 
 🎓 **Senior, Computer Science @ Iowa State University**  
-💼 **Database Administrator Intern @ Uline (Summer 2025)**  
+💻 **Incoming AI/ML Intern @ Merrill Manufacturing (Fall 2025)**
+💼 **Ex-Database Administrator Intern @ Uline (Summer 2025)**  
 ♟️ **Chess Lover | 🤖 AI/ML Enthusiast**
 
 ## 📂 Other Projects
