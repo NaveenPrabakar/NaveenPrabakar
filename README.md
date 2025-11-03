@@ -3,9 +3,9 @@
 🎓 **Senior, Computer Science @ Iowa State University**  
 📊 **Minor in Data Science & Applied AI**  
 💻 **AI Software Engineering Intern @ Merrill Manufacturing (Fall 2025)**  
-💼 **Former Database Administrator Intern @ Uline (Summer 2025)**
+💼 **Former Database Administrator Intern @ Uline (Summer 2025)**  
 🧠 **Back-End Lead @ AI/ML Club, Iowa State University**  
-🏫 **Lead Computer Science Tutor @ Iowa State University (2023–2025)** 
+🏫 **Lead Computer Science Tutor @ Iowa State University (2023–2025)**  
 
 ---
 
