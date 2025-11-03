@@ -3,9 +3,9 @@
 🎓 **Senior, Computer Science @ Iowa State University**  
 📊 **Minor in Data Science & Applied AI**  
 💻 **AI Software Engineering Intern @ Merrill Manufacturing (Fall 2025)**  
-💼 **Former Database Administrator Intern @ Uline (Summer 2025)**  
-🏫 **Lead Computer Science Tutor @ Iowa State University (2023–2025)**  
-♟️ **Chess Enthusiast** | 🤖 **AI/ML Developer**
+💼 **Former Database Administrator Intern @ Uline (Summer 2025)**
+🧠 **Back-End Lead @ AI/ML Club, Iowa State University**  
+🏫 **Lead Computer Science Tutor @ Iowa State University (2023–2025)** 
 
 ---
 
@@ -14,6 +14,7 @@
 I like building systems where AI meets software engineering — connecting models, data, and infrastructure.
 I’ve worked on everything from SQL Server optimization to LLM-powered tools and full-stack apps.
 I care about making software that’s fast, reliable, and genuinely useful, and I’m always looking for ways to automate and improve how things work.
+Outside of building software, I love playing chess and studying games. 
 
 ---
 
@@ -24,13 +25,6 @@ I care about making software that’s fast, reliable, and genuinely useful, and 
 **Databases:** MySQL, MongoDB, SQL Server, Cassandra, Redis, Pinecone  
 **Tools & Cloud:** Git, Docker, AWS (S3, Lambda, EC2, API Gateway), CI/CD  
 **Core Interests:** Backend Systems, Applied AI, Cloud Architecture  
-
-
-## 🧩 Leadership & Involvement
-
-**Back-End Lead — AI/ML Club, Iowa State University**  
-- Taught AI fundamentals using Gemini API to show case prompt design and fine-tuning
-- Led hands-on workshops on **Retrieval-Augmented Generation (RAG)** and **Model Context Protocol (MCP)**.
 
 ---
 
