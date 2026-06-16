@@ -1,9 +1,9 @@
 # 👋 Hi, I’m **Naveen Prabakar**
 
-🎓 **Senior, Computer Science @ Iowa State University**  
+🎓 **Bachelor of Science in Computer Science @ Iowa State University**  
 📊 **Minor in Data Science & Applied AI**  
-💻 **AI Software Engineering Intern @ Merrill Manufacturing (Fall 2025)**  
-💼 **Former Database Administrator Intern @ Uline (Summer 2025)**  
+💻 **AI Software Engineering Intern @ Merrill Manufacturing (September 2025 - May 2026)**  
+💼 **Database Administrator Intern @ Uline (May 2025 - August 2025)**  
 🧠 **Back-End Lead @ AI/ML Club, Iowa State University**  
 🏫 **Lead Computer Science Tutor @ Iowa State University (2023–2025)**  
 
@@ -20,8 +20,8 @@ Outside of building software, I love playing chess and studying games.
 
 ## ⚙️ Technical Skills
 
-**Languages:** Python, Java, SQL, JavaScript, TypeScript, Go  
-**Frameworks:** Flask, Spring Boot, React, Express  
+**Languages:** Python, Java, SQL, JavaScript, TypeScript
+**Frameworks:** Flask, Spring Boot, React, Express, Node 
 **Databases:** MySQL, MongoDB, SQL Server, Cassandra, Redis, Pinecone  
 **Tools & Cloud:** Git, Docker, AWS (S3, Lambda, EC2, API Gateway), CI/CD  
 **Core Interests:** Backend Systems, Applied AI, Cloud Architecture  
